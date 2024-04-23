@@ -1,0 +1,17 @@
+.counter{
+    display: flex;
+    font-size: 50px;
+}
+
+.counter h2{
+    font-weight: bold;
+    margin: 0 15px;
+}
+.counter button{
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    background-color: blue;
+    border-radius: 20px;
+}
